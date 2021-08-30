@@ -17,3 +17,12 @@ class funcA:
     
     def testb(self,c,d):
         return c*d
+        
+ class funcB:
+    
+    
+    def testA(self,a,b):
+        return a*b
+    
+    def testb(self,c,d):
+        return c*d
